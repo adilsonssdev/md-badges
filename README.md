@@ -101,7 +101,7 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 
 ## Contribution
 
-O projeto possui um arquivo de contribuição separado. Por favor, siga os passos listados no arquivo de contribuições [aqui](./CONTRIBUTING.md)
+O projeto possui um arquivo de contribuição separado. Por favor, siga os passos listados no arquivo de contribuições [aqui](./Contribuindo.md)
 
 <!-- ## Contact
 
