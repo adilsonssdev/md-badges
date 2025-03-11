@@ -1,5 +1,5 @@
-# Markdown Badges
-Add badges to your Profile and Projects.
+# Insígnias Markdown
+Adicione insígnias ao seu perfil e projetos.
 
 # Table of contents
 - [Markdown Badges](#markdown-badges)
@@ -52,23 +52,22 @@ Add badges to your Profile and Projects.
 
 
 # Usage
-To use a badge:
+Para usar uma insígnia:
 - Via GitHub
-    1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
-    2. Enter the name of the badge you need.
-    3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
-- You could also visit the live site at [ileriayo.github.io/markdown-badges/](https://ileriayo.github.io/markdown-badges/)
+    1. Pressione `Ctrl` + `f` no teclado para abrir o modal de pesquisa.
+    2. Digite o nome da insígnia que você precisa.
+    3. Copie o elemento `![Name](link)` apropriado e cole-o no seu arquivo Markdown (e.g. README.md)
 
 # Tips
 
 <details> 
-<summary>👇 How to use a different badge style</summary>
+<summary>👇  Como usar um estilo diferente de insígnia style</summary>
 <hr>
 
-> <strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
+> <strong>Nota:</strong> `for-the-badge` é o estilo que escolhemos por motivos de aparência. Outros estilos estão disponíveis em  [https://shields.io/#styles](https://shields.io/#styles) e podem ser usados com as insígnias daqui. Obrigado, @kingthorin, por mencionar isso!
 
 
-Shields.io offers 5 styles, which are:
+O **Shields.io** oferece 5 estilos, que são:
 | S/N | Types         | Styles                                                                                                    |
 | :-: | :------------ | :-------------------------------------------------------------------------------------------------------- |
 | 1   | Plastic       | ![Plastic](https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic)                     |
@@ -79,7 +78,7 @@ Shields.io offers 5 styles, which are:
 
 
 
-💡 To use a different style: Replace `for-the-badge` in the markdown link with any of the styles above.
+💡Para usar um estilo diferente: Substitua for-the-badge no link Markdown por qualquer um dos estilos mencionados acima..
 ```
 Example.
 
@@ -96,17 +95,17 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 <summary>👇 Use Ctrl + F or CMD + F to search</summary>
  <hr>
 
- > <strong>Tip:</strong> Since there are a lot of badges, to search for the particular badge you are looking for, use Ctrl + F and type the name you want. Thanks, @JakyeRU for mentioning this!
+ > <strong>Dica:</strong> Como há muitas insígnias, para encontrar uma específica, use Ctrl + F e digite o nome desejado. Obrigado, @JakyeRU, por mencionar isso!
 </details>
 
 
 ## Contribution
 
-The project has a separate contribution file. Please adhere to the steps listed in the separate contributions [file](./CONTRIBUTING.md)
+O projeto possui um arquivo de contribuição separado. Por favor, siga os passos listados no arquivo de contribuições [aqui](./CONTRIBUTING.md)
 
-## Contact
+<!-- ## Contact
 
-You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
+You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo) -->
 
 ## License
 
